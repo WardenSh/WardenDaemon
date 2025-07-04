@@ -1,0 +1,3 @@
+BasedOnStyle: Microsoft
+TabWidth: 8
+UseTab: Always
